@@ -20,7 +20,7 @@ tfc.tooltip.small_vessel_empty=Пустой
 tfc.tooltip.small_vessel_item=%1$dx %2$s
 tfc.tooltip.weldable=Можно сваривать
 tfc.tooltip.workable=Можно ковать
-tfc.tooltip.danger=***Перегрев!***
+tfc.tooltip.danger=§cП§4е§cр§4е§cг§4р§cе§4в
 tfc.tooltip.anvil_plan=Чертежи
 tfc.tooltip.anvil_tier_too_low=Низкий уровень наковальни!
 tfc.tooltip.anvil_no_flux=Отсутствует флюс!
@@ -125,7 +125,7 @@ config.tfc.tooltip=Настройки TerraFirmaCraft
 
 ## General Config
 config.tfc.general=Общие параметры
-config.tfc.general.toolip=Non side specific settings.
+config.tfc.general.toolip=Это действительно общие параметры.
 
 config.tfc.general.debug=Режим отладки
 config.tfc.general.debug.tooltip=Различные параметры отладки. Активирует некоторые дополнительные функции. Включает дополнительные подсказки элементов.
@@ -381,17 +381,17 @@ tfc.enum.weight.medium=Средний
 tfc.enum.weight.heavy=Тяжелый
 
 ## Heat
-tfc.enum.heat.warming=Нагревается
-tfc.enum.heat.hot=Горячий
-tfc.enum.heat.very_hot=Обжигающий
-tfc.enum.heat.faint_red=Слабо-красный
-tfc.enum.heat.dark_red=Красный
-tfc.enum.heat.bright_red=Ярко-красный
-tfc.enum.heat.orange=Оранжевый
-tfc.enum.heat.yellow=Желтый
-tfc.enum.heat.yellow_white=Ярко-желтый
-tfc.enum.heat.white=Белый
-tfc.enum.heat.brilliant_white=Ярко-белый
+tfc.enum.heat.warming=§7Нагревается
+tfc.enum.heat.hot=§7Горячий
+tfc.enum.heat.very_hot=§7Обжигающий
+tfc.enum.heat.faint_red=§cСлабо-красный
+tfc.enum.heat.dark_red=§4Красный
+tfc.enum.heat.bright_red=§4§lЯрко-красный
+tfc.enum.heat.orange=§6Оранжевый
+tfc.enum.heat.yellow=§eЖелтый
+tfc.enum.heat.yellow_white=§e§lЯрко-желтый
+tfc.enum.heat.white=§fБелый
+tfc.enum.heat.brilliant_white=§f§lЯрко-белый
 
 tfc.enum.heat.torch.catching_fire=На огне
 tfc.enum.heat.torch.lit=Зажжён
