@@ -124,16 +124,16 @@ config.tfc=TerraFirmaCraft
 config.tfc.tooltip=Настройки TerraFirmaCraft
 
 ## General Config
-config.tfc.general=General Settings
+config.tfc.general=Общие параметры
 config.tfc.general.toolip=Non side specific settings.
 
-config.tfc.general.debug=Debug Mode
-config.tfc.general.debug.tooltip=Various debug options. Activates some extra wand features. Enables extra item tooltips.
+config.tfc.general.debug=Режим отладки
+config.tfc.general.debug.tooltip=Различные параметры отладки. Активирует некоторые дополнительные функции. Включает дополнительные подсказки элементов.
 
-config.tfc.general.removeVanillaRecipes=Remove Vanilla Recipes
-config.tfc.general.removeVanillaRecipes.tooltip=Enable/Disable the vanilla recipe removal spam. False = Those recipes are left in place.
+config.tfc.general.removeVanillaRecipes=Удалить ванильные рецепты
+config.tfc.general.removeVanillaRecipes.tooltip=Включить/отключить спам удаления ванильных рецептов. Отключить = эти рецепты остаются на месте.
 
-config.tfc.general.removeVanillaLoots=Remove Vanilla Loots
+config.tfc.general.removeVanillaLoots=Удалить ванильный лут
 config.tfc.general.removeVanillaLoots.tooltip=Enable/Disable the vanilla loot entries that conflict with TFC (ie: potatoes). False = Those loot entries are left in place.
 
 config.tfc.general.leafStickDropChance=Leaf Stick Drop Chance
@@ -289,7 +289,7 @@ config.tfc.client.rottenFoodOverlayColor=Rotten Food Overlay Color
 config.tfc.client.rottenFoodOverlayColor.tooltip=The color to render on top of rotten food. Express as a 265 bit color value: 0xFFFFFF = white, 0x000000 = black
 
 ## World Config
-config.tfc.world=World Gen Settings
+config.tfc.world=Параметры генератора мира
 config.tfc.world.tooltip=Various aspects of world generation
 
 config.tfc.world.hemisphereType=Hemisphere Type
@@ -2194,7 +2194,7 @@ tile.tfc.plants.switchgrass.name=Просо прутьевидное
 tile.tfc.plants.sword_fern.name=Нефролепис
 tile.tfc.plants.tall_fescue_grass.name=Овсяница высокая
 tile.tfc.plants.timothy_grass.name=Тимофеевка
-tile.tfc.plants.toquilla_palm.name=Toquilla Palm
+tile.tfc.plants.toquilla_palm.name=Текиловая пальма
 tile.tfc.plants.tree_fern.name=Циатея Брауна
 tile.tfc.plants.trillium.name=Триллиум
 tile.tfc.plants.tropical_milkweed.name=Молочай тропический
