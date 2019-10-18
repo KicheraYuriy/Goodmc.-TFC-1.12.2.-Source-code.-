@@ -548,7 +548,7 @@ fluid.unknown=Расплавленный неизвестный сплав
 
 tile.tfc.debug.name=TFC Debug Block
 tile.tfc.placed_item.name=Поставленный предмет
-tile.tfc.placed_item_flat.name=фрагменты
+tile.tfc.placed_item_flat.name=Фрагменты
 tile.tfc.pit_kiln.name=Яма для обжига
 tile.tfc.charcoal_forge.name=Печь древесного угля
 tile.tfc.peat.name=Торф
