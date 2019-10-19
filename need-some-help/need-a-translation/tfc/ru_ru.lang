@@ -29,7 +29,7 @@ tfc.tooltip.anvil_no_hammer=Отсутствует молот!
 tfc.tooltip.crucible_result=Результат:
 tfc.tooltip.barrel_seal=Запечатать
 tfc.tooltip.barrel_unseal=Вскрыть
-tfc.tooltip.barrel_cooling=Cooling
+tfc.tooltip.barrel_cooling=Охлаждение
 tfc.tooltip.calendar=Календарь
 tfc.tooltip.season=Сезон: %s
 tfc.tooltip.day=День: %s
@@ -51,7 +51,7 @@ tfc.tooltip.blast_furnace_melt_amount=Сплав
 tfc.tooltip.large_vessel_seal=Запечатать
 tfc.tooltip.large_vessel_unseal=Вскрыть
 tfc.tooltip.goldpan.chunkworked=This area seems to be overworked. You probably wouldn't find much.
-tfc.tooltip.smithing_skill=Skill Bonus: %0.1f%%
+tfc.tooltip.smithing_skill=Бонус к навыкам: %0.1f%%
 
 ## Animal Tooltips / Messages
 tfc.tooltip.animal.old=Это животное слишком старое для спаривания.
@@ -2650,7 +2650,7 @@ item.tfc.wood.door.rosewood.name=Rosewood Door
 item.tfc.wood.door.blackwood.name=Blackwood Door
 item.tfc.wood.door.palm.name=Palm Door
 
-item.tfc.gem.agate.normal.name=Normal Agate
+item.tfc.gem.agate.normal.name=Агат хорошего качества
 item.tfc.gem.amethyst.normal.name=Normal Amethyst
 item.tfc.gem.beryl.normal.name=Normal Beryl
 item.tfc.gem.diamond.normal.name=Normal Diamond
