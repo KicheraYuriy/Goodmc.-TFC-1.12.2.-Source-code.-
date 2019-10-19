@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tfgmc",
+  "name": "TerraFirmaGoodMc",
+  "description": "GoodMc terrafirmacraft addon.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "goodmc.ru",
+  "updateUrl": "",
+  "authorList": ["DarthSidious"],
+  "credits": "So Long, and Thanks for all the Fish",
+  "logoFile": "assets/tfgmc/textures/tfgmc.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
